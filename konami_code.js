@@ -11,6 +11,7 @@ function init() {
 
     if (index === code.length){
       alert('Cheat Unlocked!');
+      index = 0;
     } else {
       index = 0;
     }
